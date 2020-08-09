@@ -8,213 +8,33 @@ Description: Pico is a stupidly simple, blazing fast, flat file CMS.
 Congratulations, you have successfully installed [Pico][] %version%.
 %meta.description% <!-- replaced by the above Description header -->
 
-<div class="content">
-    <div class=" pi-img-w pi-img-center pi-text-center" style="padding-top: 160px; text-align:center;">
-    <div class="">
-      <a href="#" class="pi-img-link">
-        <img style="width:500px;" src="https://chiesi-test.exomtrials.com/portal/TRITRIAL/sites/default/files/logo_tritrial_portal_def.png" alt="Alt" title="">
-        </a>
-    </div>
-    
-  </div>
-<div class=" row pi-text-center" style="padding-top: 30px; text-align:center;">
-<div class=" col-sm-1">
-</div>
-<div class=" col-sm-2">
-<div class=" pi-icon-box-vertical pi-text-center" style="-webkit-border-radius: 0px;; -moz-border-radius: 0px;; border-radius: 0px;;">
-    <div class="pi-icon-box-icon pi-icon-box-icon-dark pi-icon-box-icon-circle">
-      <i class="icon-user-add"></i>
-    </div>
-    <div class="pi-icon-box-content-2">
-      
+<img src="%theme_url%/img/BF27E8B.png" alt="" />
+<img src="{{ pages["_meta"].meta.studylogo|url }}" alt="Study Logo" />
       
 <p><a href="https://tritrial-ge2-dev.exomtech.com/investigator/dashboard" target="_blank">eIC</a></p>
-
-    </div>
-  </div>
-</div>
-<div class=" col-sm-2">
-<div class=" pi-icon-box-vertical pi-text-center" style="-webkit-border-radius: 0px;; -moz-border-radius: 0px;; border-radius: 0px;;">
-    <div class="pi-icon-box-icon pi-icon-box-icon-dark pi-icon-box-icon-circle">
-      <i class="icon-doc-text"></i>
-    </div>
-    <div class="pi-icon-box-content-2">
-      
-      
 <p><a href="/study/TRITRIAL/questionnaires">ePRO Questionnaires</a></p>
-
-    </div>
-  </div>
-</div>
-<div class=" col-sm-2">
-<div class=" pi-icon-box-vertical pi-text-center" style="-webkit-border-radius: 0px;; -moz-border-radius: 0px;; border-radius: 0px;;">
-    <div class="pi-icon-box-icon pi-icon-box-icon-dark pi-icon-box-icon-circle">
-      <i class="icon-vcard"></i>
-    </div>
-    <div class="pi-icon-box-content-2">
-      
-      
 <p><a href="/study/TRITRIAL/">eCRF</a></p>
-
-    </div>
-  </div>
-</div>
-<div class=" col-sm-2">
-<div class=" pi-icon-box-vertical pi-text-center">
-    <div class="pi-icon-box-icon pi-icon-box-icon-dark pi-icon-box-icon-circle">
-      <i class="icon-archive"></i>
-    </div>
-    <div class="pi-icon-box-content-2">
-      
-      
 <p><a href="https://exomgroup-etmf2.veevavault.com">eTMF &amp; eISF</a></p>
-
-    </div>
-  </div>
-</div>
-<div class=" col-sm-2">
-<div class=" pi-icon-box-vertical pi-text-center">
-    <div class="pi-icon-box-icon pi-icon-box-icon-dark pi-icon-box-icon-circle">
-      <i class="icon-list"></i>
-    </div>
-    <div class="pi-icon-box-content-2">
-      
-      
 <p><a href="/study/TRITRIAL_ID/index.php?list=patients_list_center.xml">Identification List</a></p>
-
-    </div>
-  </div>
-</div>
-<div class=" col-sm-1">
-</div>
-</div>
-<div class=" row pi-text-center" style="padding-top: 30px; text-align:center;">
-<div class=" col-sm-2">
-</div>
-<div class=" col-sm-2">
-<div class=" pi-icon-box-vertical pi-text-center" style="-webkit-border-radius: 0px;; -moz-border-radius: 0px;; border-radius: 0px;;">
-    <div class="pi-icon-box-icon pi-icon-box-icon-dark pi-icon-box-icon-circle">
-      <i class="icon-chat"></i>
-    </div>
-    <div class="pi-icon-box-content-2">
-      
-      
 <p><a href="/study/TRITRIAL/VPA/vpa.php ">Virtual Personal Assistant</a></p>
-
-    </div>
-  </div>
-</div>
-<div class=" col-sm-2">
-<div class=" pi-icon-box-vertical pi-text-center">
-    <div class="pi-icon-box-icon pi-icon-box-icon-dark pi-icon-box-icon-circle">
-      <i class="icon-tools"></i>
-    </div>
-    <div class="pi-icon-box-content-2">
-      
-      
 <p><a href="#">Technical Support</a></p>
-
-    </div>
-  </div>
-</div>
-<div class=" col-sm-2">
-<div class=" pi-icon-box-vertical pi-text-center">
-    <div class="pi-icon-box-icon pi-icon-box-icon-dark pi-icon-box-icon-circle">
-      <i class="icon-mail"></i>
-    </div>
-    <div class="pi-icon-box-content-2">
-      
-      
 <p><a href="?q=content/study-team-contacts">Study Team Contacts</a></p>
-
-    </div>
-  </div>
-</div>
-<div class=" col-sm-2">
-<div class=" pi-icon-box-vertical pi-text-center">
-    <div class="pi-icon-box-icon pi-icon-box-icon-dark pi-icon-box-icon-circle">
-      <i class="icon-help"></i>
-    </div>
-    <div class="pi-icon-box-content-2">
-      
-      
 <p><a href="?q=content/frequently-asked-questions">FAQs</a></p>
 
-    </div>
-  </div>
-</div>
-<div class=" col-sm-2">
-</div>
-</div>
-<div style="padding-top: 20px; padding-bottom: 20px;"><h2>NEWS</h2></div>
-<div class=" pi-slider-wrapper pi-slider-arrows-inside pi-slider-show-arrow-hover">
-    <div class="pi-slider pi-slider-animate-opacity">
-      
-<div class="pi-slide">
-<div class=" col-md-6">
-<div class=" pi-icon-box-hover pi-icon-box">
-      <div class="pi-icon-box-icon">
-        
-      </div>
-      <div class="pi-icon-box-content">
-        <h4><a href="" class="pi-link-dark">Third Patient included in the study</a></h4>
-        
+<h2>NEWS</h2>
+
+<h4><a href="" class="pi-link-dark">Third Patient included in the study</a></h4>        
 <p><i>SEPTEMBER 11TH 2019</i></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod <strong>tempor incididunt</strong> ut labore et dolore magna aliqua. At imperdiet dui accumsan sit amet nulla facilisi morbi.<br> Luctus accumsan tortor posuere ac. Pulvinar sapien et ligula ullamcorper. Sagittis vitae et leo duis ut diam. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Nisi quis eleifend quam adipiscing vitae proin.</p>
 
-        
-      </div>
-    </div>
-</div>
-<div class=" col-md-6">
-<div class=" pi-icon-box">
-      <div class="pi-icon-box-icon">
-        
-      </div>
-      <div class="pi-icon-box-content">
-        <h4><a href="" class="pi-link-dark">TRITRIAL study up-to-date</a></h4>
-        
+<h4><a href="" class="pi-link-dark">TRITRIAL study up-to-date</a></h4>        
 <p><i>SEPTEMBER 10TH, 2019</i></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>At imperdiet dui <strong>accumsan</strong> sit amet nulla facilisi morbi. Luctus accumsan tortor posuere ac. Pulvinar sapien et ligula ullamcorper. </p>
 
-        
-      </div>
-    </div>
-</div>
-</div>
-<div class="pi-slide pi-slide-active">
-<div class=" col-md-6">
-<div class=" pi-icon-box-hover pi-icon-box">
-      <div class="pi-icon-box-icon">
-        
-      </div>
-      <div class="pi-icon-box-content">
-        <h4><a href="" class="pi-link-dark">Second Patient included in the study</a></h4>
-        
+<h4><a href="" class="pi-link-dark">Second Patient included in the study</a></h4>
 <p><i>JULY 24TH 2019</i></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At imperdiet dui accumsan sit amet nulla facilisi morbi. Luctus accumsan tortor posuere ac. Pulvinar sapien et ligula ullamcorper. Sagittis vitae et leo duis ut diam. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Nisi quis eleifend quam adipiscing vitae proin.</p>
 
-        
-      </div>
-    </div>
-</div>
-<div class=" col-md-6">
-<div class=" pi-icon-box-hover pi-icon-box">
-      <div class="pi-icon-box-icon">
-        
-      </div>
-      <div class="pi-icon-box-content">
-        <h4><a href="" class="pi-link-dark">First patient included in the study</a></h4>
-        
+<h4><a href="" class="pi-link-dark">First patient included in the study</a></h4>        
 <p><i>JULY 15TH 2019</i></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At imperdiet dui accumsan sit amet nulla facilisi morbi. Luctus accumsan tortor posuere ac. Pulvinar sapien et ligula ullamcorper. Sagittis vitae et leo duis ut diam. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Nisi quis eleifend quam adipiscing vitae proin. </p>
 
-        
-      </div>
-    </div>
-</div>
-</div>
-
-    </div>
-  <div class="pi-slider-pagination"><span class="pi-slider-page"><span></span></span><span class="pi-slider-page pi-slider-page-active"><span></span></span></div><div class="pi-slider-arrow pi-slider-arrow-left "><span></span></div><div class="pi-slider-arrow pi-slider-arrow-right "><span></span></div></div>
-   </div>
-   
 
 ## Creating Content
 

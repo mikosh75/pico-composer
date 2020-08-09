@@ -1,5 +1,6 @@
 ---
 Logo: %theme_url%/img/pico-white.svg
+Studylogo: %theme_url%/img/BF27E8B.png
 Tagline: Making the web easy.
 Social:
     - title: Visit us on GitHub
