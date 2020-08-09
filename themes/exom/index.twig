@@ -55,7 +55,9 @@
 
     <div id="main" role="main">
         <div class="container">
+        {% if pages["_meta"].meta.studylogo %}
           <img src="{{ pages["_meta"].meta.studylogo|url }}" alt="Study Logo" />
+        {% endif %}
             {{ content }}
         </div>
     </div>
