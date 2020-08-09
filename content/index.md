@@ -9,7 +9,6 @@ Congratulations, you have successfully installed [Pico][] %version%.
 %meta.description% <!-- replaced by the above Description header -->
 
 <img src="%theme_url%/img/BF27E8B.png" alt="" />
-<img src="{{ pages["_meta"].meta.studylogo|url }}" alt="Study Logo" />
       
 <p><a href="https://tritrial-ge2-dev.exomtech.com/investigator/dashboard" target="_blank">eIC</a></p>
 <p><a href="/study/TRITRIAL/questionnaires">ePRO Questionnaires</a></p>
@@ -24,16 +23,20 @@ Congratulations, you have successfully installed [Pico][] %version%.
 <h2>NEWS</h2>
 
 <h4><a href="" class="pi-link-dark">Third Patient included in the study</a></h4>        
-<p><i>SEPTEMBER 11TH 2019</i></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod <strong>tempor incididunt</strong> ut labore et dolore magna aliqua. At imperdiet dui accumsan sit amet nulla facilisi morbi.<br> Luctus accumsan tortor posuere ac. Pulvinar sapien et ligula ullamcorper. Sagittis vitae et leo duis ut diam. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Nisi quis eleifend quam adipiscing vitae proin.</p>
+<p><i>SEPTEMBER 11TH 2019</i></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod <strong>tempor incididunt</strong> ut labore et dolore magna aliqua. At imperdiet dui accumsan sit amet nulla facilisi morbi.<br> Luctus accumsan tortor posuere ac. Pulvinar sapien et ligula ullamcorper. Sagittis vitae et leo duis ut diam. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Nisi quis eleifend quam adipiscing vitae proin.</p>
 
 <h4><a href="" class="pi-link-dark">TRITRIAL study up-to-date</a></h4>        
-<p><i>SEPTEMBER 10TH, 2019</i></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>At imperdiet dui <strong>accumsan</strong> sit amet nulla facilisi morbi. Luctus accumsan tortor posuere ac. Pulvinar sapien et ligula ullamcorper. </p>
+<p><i>SEPTEMBER 10TH, 2019</i></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br>At imperdiet dui <strong>accumsan</strong> sit amet nulla facilisi morbi. Luctus accumsan tortor posuere ac. Pulvinar sapien et ligula ullamcorper. </p>
 
 <h4><a href="" class="pi-link-dark">Second Patient included in the study</a></h4>
-<p><i>JULY 24TH 2019</i></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At imperdiet dui accumsan sit amet nulla facilisi morbi. Luctus accumsan tortor posuere ac. Pulvinar sapien et ligula ullamcorper. Sagittis vitae et leo duis ut diam. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Nisi quis eleifend quam adipiscing vitae proin.</p>
+<p><i>JULY 24TH 2019</i></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At imperdiet dui accumsan sit amet nulla facilisi morbi. Luctus accumsan tortor posuere ac. Pulvinar sapien et ligula ullamcorper. Sagittis vitae et leo duis ut diam. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Nisi quis eleifend quam adipiscing vitae proin.</p>
 
 <h4><a href="" class="pi-link-dark">First patient included in the study</a></h4>        
-<p><i>JULY 15TH 2019</i></p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At imperdiet dui accumsan sit amet nulla facilisi morbi. Luctus accumsan tortor posuere ac. Pulvinar sapien et ligula ullamcorper. Sagittis vitae et leo duis ut diam. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Nisi quis eleifend quam adipiscing vitae proin. </p>
+<p><i>JULY 15TH 2019</i></p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. At imperdiet dui accumsan sit amet nulla facilisi morbi. Luctus accumsan tortor posuere ac. Pulvinar sapien et ligula ullamcorper. Sagittis vitae et leo duis ut diam. Vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Nisi quis eleifend quam adipiscing vitae proin. </p>
 
 
 ## Creating Content
